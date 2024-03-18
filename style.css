@@ -19,7 +19,7 @@
     border-radius: 2px;
     background-size: cover;
     transform-origin: left;
-    animation: openBook 2s ease 1.5s forwards, closeBook 2s ease-out 3.5s forwards;
+    animation: openBook 2s ease-in 1.5s forwards, closeBook 2s ease-out 3.5s forwards;
     box-shadow: 10px 30px 20px rgba(0, 0, 0, 0.466);
 }
 
